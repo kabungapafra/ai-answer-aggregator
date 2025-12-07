@@ -55,9 +55,22 @@ Alternatively, you can create a `.env` file (requires `python-dotenv` package) o
 
 ### 3. Run the Program
 
+**Command Line Version:**
 ```bash
 python ai_aggregator.py
 ```
+
+**GUI Version (Recommended):**
+```bash
+python ai_aggregator_gui.py
+```
+
+The GUI provides a user-friendly interface with:
+- Question input area
+- Model selection checkboxes
+- Real-time progress indicator
+- Tabbed results view (Final Answer & Individual Responses)
+- Save results functionality
 
 ## Usage
 
